@@ -4,3 +4,4 @@ Search subjects/objects inside a image using text description. This is done by c
 
 
 ### "Mini Cooper"
+![minicooper](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/img1.png)
