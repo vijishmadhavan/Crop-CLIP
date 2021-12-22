@@ -9,3 +9,4 @@ Search subjects/objects inside a image using text description. This is done by c
 
 
 ### "Whiskey Bottle"
+![Whiskey](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/download%20(2)-side.png)
