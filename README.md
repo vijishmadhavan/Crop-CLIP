@@ -46,6 +46,7 @@
 ## Limitations
 
 - Depends heavily on object detection(yolov5). 
+- YOLOv5 🚀 is a family of object detection architectures and models pretrained on the COCO dataset, So detection depends on COCO classes.
 
 ## Acknowledgements
 - [Beyond tags and entering the semantic search era on images with OpenAI CLIP](https://towardsdatascience.com/beyond-tags-and-entering-the-semantic-search-era-on-images-with-openai-clip-1f7d629a9978) by [Ramsri Goutham Golla](https://twitter.com/ramsri_goutham)
