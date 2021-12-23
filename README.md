@@ -39,6 +39,8 @@
 
 #### :point_right: [Hugging Face Space](https://huggingface.co/spaces/Vijish/Crop-CLIP)  :point_left:
 
+![app](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/ezgif-7-4272b7bcdc.gif)
+
 ## Limitations
 
 - Depends heavily on object detection.
