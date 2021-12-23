@@ -32,7 +32,7 @@
 ## Why?
 - #vacation :relaxed:
 
-- **Can also be used to create datasets with some changes in code. In the below example images of Jack daniels bottle has been croped and saved.**
+**Can also be used to create datasets with some changes in code. In the below example images of Jack daniels bottle has been croped and saved.**
 
 ### Search Query on batch - "Jack Daniels"
 ![dataset](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/data-side.jpg)
