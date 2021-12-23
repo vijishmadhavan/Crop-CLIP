@@ -1,6 +1,6 @@
 # Crop-CLIP
 
-**Search subjects/objects inside a image using simple text description and get cropped results.**
+**Search subjects/objects in an image using simple text description and get cropped results.**
 
 ## "Search Query - Crop!"
 
