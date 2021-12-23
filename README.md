@@ -2,6 +2,9 @@
 
 **Search subjects/objects in an image using simple text description and get cropped results.**
 
+## Highlights
+- [Hugging face Space App](#Simple-App)
+
 ## "Search Query - Crop!"
 
 ### "Whats the time"
@@ -32,7 +35,9 @@
 ### Search Query on batch - "Jack Daniels"
 ![dataset](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/data-side.jpg)
 
-### [Hugging Face Space](https://huggingface.co/spaces/Vijish/Crop-CLIP)
+## Simple App
+
+#### [Hugging Face Space](https://huggingface.co/spaces/Vijish/Crop-CLIP)
 
 ## Limitations
 
