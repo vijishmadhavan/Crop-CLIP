@@ -2,6 +2,8 @@
 
 **Search subjects/objects in an image using simple text description and get cropped results.**
 
+**Try it on Colab:** 
+
 ## Highlights
 - [Try the web app :point_down:](#Simple-App)
 
