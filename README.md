@@ -1,6 +1,6 @@
 # Crop-CLIP
 
-Search subjects/objects inside a image using simple text description and crop. This is done by combining Object detection [yolov5](https://github.com/ultralytics/yolov5) and OpenAI's [CLIP model](https://github.com/openai/CLIP).
+Search subjects/objects inside a image using simple text description and get cropped results. 
 
 ## "Search Query - Crop!"
 
@@ -15,6 +15,18 @@ Search subjects/objects inside a image using simple text description and crop. T
 
 ### "Whiskey Bottle"
 ![Whiskey](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/download%20(2)-side.png)
+
+## How?
+
+- This is done by combining Object detection [yolov5](https://github.com/ultralytics/yolov5) and OpenAI's [CLIP model](https://github.com/openai/CLIP).
+- Detects objects (yolov5s)
+- Encode cropped images using CLIP
+- Encode search query using CLIP
+- Find the best match
+
+## Why?
+
+
 
 
 
