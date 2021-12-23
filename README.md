@@ -19,12 +19,16 @@ Search subjects/objects inside a image using simple text description and get cro
 ## How?
 
 - This is done by combining Object detection [yolov5](https://github.com/ultralytics/yolov5) and OpenAI's [CLIP model](https://github.com/openai/CLIP).
-- Detects objects (yolov5s)
+- Detects and crops objects (yolov5s)
 - Encode cropped images using CLIP
 - Encode search query using CLIP
 - Find the best match
 
 ## Why?
+- #vacation :relaxed:
+
+- Can also be used to create datasets.
+
 
 
 
