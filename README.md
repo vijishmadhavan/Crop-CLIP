@@ -3,7 +3,7 @@
 **Search subjects/objects in an image using simple text description and get cropped results.**
 
 ## Highlights
-- [Hugging face Space App](#Simple-App)
+- [Try the space](#Simple-App)
 
 ## "Search Query - Crop!"
 
