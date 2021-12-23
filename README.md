@@ -1,6 +1,6 @@
 # Crop-CLIP
 
-Search subjects/objects inside a image using simple text description and get cropped results. 
+**Search subjects/objects inside a image using simple text description and get cropped results.**
 
 ## "Search Query - Crop!"
 
@@ -32,6 +32,9 @@ Search subjects/objects inside a image using simple text description and get cro
 ### Search Query on batch - "Jack Daniels"
 ![dataset](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/data-side.jpg)
 
+## Limitations
+
+- Depends heavily on object detection.
 
 ## Acknowledgements
 - [Beyond tags and entering the semantic search era on images with OpenAI CLIP](https://towardsdatascience.com/beyond-tags-and-entering-the-semantic-search-era-on-images-with-openai-clip-1f7d629a9978) by [Ramsri Goutham Golla](https://twitter.com/ramsri_goutham)
