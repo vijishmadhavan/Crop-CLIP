@@ -1,11 +1,10 @@
 # Crop-CLIP
 
-Search subjects/objects inside a image using text description. This is done by combining Object detection [yolov5](https://github.com/ultralytics/yolov5) and OpenAI's [CLIP model](https://github.com/openai/CLIP).
+Search subjects/objects inside a image using simple text description and crop. This is done by combining Object detection [yolov5](https://github.com/ultralytics/yolov5) and OpenAI's [CLIP model](https://github.com/openai/CLIP).
 
 ## "Search Query - Crop!"
 
 ### "Whats the time"
-
 ![Time](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/download%20(3)-side.png)
 
 ### "Hoodie guy"
@@ -14,6 +13,16 @@ Search subjects/objects inside a image using text description. This is done by c
 ### "Mini Cooper"
 ![minicooper](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/img1.png)
 
-
 ### "Whiskey Bottle"
 ![Whiskey](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/download%20(2)-side.png)
+
+
+
+## Acknowledgements
+- [Beyond tags and entering the semantic search era on images with OpenAI CLIP](https://towardsdatascience.com/beyond-tags-and-entering-the-semantic-search-era-on-images-with-openai-clip-1f7d629a9978) by [Ramsri Goutham Golla](https://twitter.com/ramsri_goutham)
+- [OpenAI's CLIP](https://github.com/openai/CLIP)
+- [Natural Language Image Search](https://github.com/haltakov/natural-language-image-search)
+- [yolov5](https://github.com/ultralytics/yolov5)
+
+
+
