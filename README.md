@@ -45,7 +45,7 @@
 
 ## Limitations
 
-- Depends heavily on object detection.
+- Depends heavily on object detection(yolov5). 
 
 ## Acknowledgements
 - [Beyond tags and entering the semantic search era on images with OpenAI CLIP](https://towardsdatascience.com/beyond-tags-and-entering-the-semantic-search-era-on-images-with-openai-clip-1f7d629a9978) by [Ramsri Goutham Golla](https://twitter.com/ramsri_goutham)
