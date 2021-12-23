@@ -32,6 +32,8 @@
 ### Search Query on batch - "Jack Daniels"
 ![dataset](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/data-side.jpg)
 
+### [Hugging Face Space](https://huggingface.co/spaces/Vijish/Crop-CLIP)
+
 ## Limitations
 
 - Depends heavily on object detection.
