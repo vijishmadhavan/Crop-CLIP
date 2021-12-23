@@ -9,7 +9,6 @@ Search subjects/objects inside a image using text description. This is done by c
 ![Time](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/download%20(3)-side.png)
 
 ### "Hoodie guy"
-
 ![Hoodie](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/download%20(4)-side.png)
 
 ### "Mini Cooper"
