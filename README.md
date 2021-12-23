@@ -3,7 +3,7 @@
 **Search subjects/objects in an image using simple text description and get cropped results.**
 
 ## Highlights
-- [Try the space](#Simple-App)
+- [Try the web app :point_down:](#Simple-App)
 
 ## "Search Query - Crop!"
 
