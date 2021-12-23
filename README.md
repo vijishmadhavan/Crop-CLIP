@@ -37,7 +37,7 @@
 
 ## Simple App
 
-#### [Hugging Face Space](https://huggingface.co/spaces/Vijish/Crop-CLIP)
+#### :point_right: [Hugging Face Space](https://huggingface.co/spaces/Vijish/Crop-CLIP)  :point_left:
 
 ## Limitations
 
