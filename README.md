@@ -18,7 +18,7 @@
 
 #### "Cute boy"
 
-![baby](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/ss.jpg)
+![baby](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/ss2.jpg)
 
 
 ## Highlights
