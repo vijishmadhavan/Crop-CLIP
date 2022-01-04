@@ -10,7 +10,9 @@
 
 #### Video Results:(Baby Driver Bank Robbery scene)
 
-#### "Search Query on Video: Man in suit"
+#### Search Query on Video: "Man in suit"
+
+
 
 
 
