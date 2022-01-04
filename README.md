@@ -8,9 +8,9 @@
 
 **Video:** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Crop-CLIP/blob/master/Crop_CLIP_Video.ipynb)
 
-## Video Results:(Baby Driver Bank Robbery scene)
+#### Video Results:(Baby Driver Bank Robbery scene)
 
-## "Search Query on Video: Man in suit"
+#### "Search Query on Video: Man in suit"
 
 
 
