@@ -12,9 +12,9 @@
 
 **- Search the scene and zoom-in to the subject.**
 
-### Search Query on Video: 
+### Search Query on Video
 
-####"Man in suit"
+#### "Man in suit"
 
 ![baby](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/ss.jpg)
 
