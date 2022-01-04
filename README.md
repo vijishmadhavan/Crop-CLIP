@@ -4,7 +4,7 @@
 
 **Image:** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Crop-CLIP/blob/master/Crop_CLIP.ipynb)
 
-* 2022-1-04 Added [colab for videos](https://colab.research.google.com/github/vijishmadhavan/Crop-CLIP/blob/master/Crop_CLIP_Video.ipynb)
+* 2022-1-04 Added [colab for YouTube videos](https://colab.research.google.com/github/vijishmadhavan/Crop-CLIP/blob/master/Crop_CLIP_Video.ipynb)
 
 **Video:** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Crop-CLIP/blob/master/Crop_CLIP_Video.ipynb)
 
@@ -12,7 +12,7 @@
 
 **- Search the scene and zoom-in to the subject.**
 
-### Search Query on Video
+### Search Query on YouTube Video.
 
 #### "Man in suit"
 
