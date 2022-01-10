@@ -8,6 +8,9 @@
 
 **Video:** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Crop-CLIP/blob/master/Crop_CLIP_Video.ipynb)
 
+## Highlights
+- [Try the web app :point_down:](#Simple-App)
+
 ## Video Results:(Baby Driver Bank Robbery scene)
 
 **- Search the scene and zoom-in to the subject.**
@@ -22,9 +25,6 @@
 
 ![baby](https://github.com/vijishmadhavan/Crop-CLIP/blob/master/Images/ss2.jpg)
 
-
-## Highlights
-- [Try the web app :point_down:](#Simple-App)
 
 ## "Search Query - Crop!"
 
