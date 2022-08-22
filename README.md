@@ -1,5 +1,7 @@
 # Crop-CLIP
 
+You can sponsor me to support my open source work 💖 [sponsor](https://github.com/sponsors/vijishmadhavan?o=sd&sc=t)
+
 **Search subjects/objects in an image using simple text description and get cropped results.**
 
 **Image:** [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/vijishmadhavan/Crop-CLIP/blob/master/Crop_CLIP.ipynb)
